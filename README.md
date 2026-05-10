@@ -100,8 +100,8 @@ open index.html
  
 ## 📸 Screenshots
  
-> *(Add a screenshot of your project here)*
 > `<img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/0394453c-67d5-43d2-9d1f-44bf7bcbe654" />
+---
 > <img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/bd4b60ce-2db6-4981-bf99-f2327f518046" />
 
 `
