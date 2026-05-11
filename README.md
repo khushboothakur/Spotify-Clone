@@ -91,7 +91,7 @@ No setup or installation needed!
 2. Make sure all image files are in the same folder as `index.html`
 3. Open `index.html` in any browser
 ```bash
-git clone https://github.com/your-username/spotify-clone.git
+git clone https://github.com/khushboothakur/spotify-clone.git
 cd spotify-clone
 open index.html
 ```
